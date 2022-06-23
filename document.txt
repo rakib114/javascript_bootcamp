@@ -1,0 +1,26 @@
+Jodi kono method a this thake tahole this mane 
+-> sei object
+
+jodi kno function a this thake tahole this mane 
+-> window/global
+
+practice:
+dummy text generator
+currency converter
+BMI calculator
+Tip calculator
+todo list
+
+//promodoro timer
+
+project ideas: > https://codecanyon.net/
+
+
+           Important
+*: Object and it's method
+*: Array and it's Method
+*: Ececution Context in JS
+*: Event, callback, higher order function
+*: Sperad operator, rest operator
+*: destructuring
+*: API
